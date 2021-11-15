@@ -38,4 +38,7 @@ Smart elevators are designed to transform the simple act of traveling between fl
 
 **© kotek niv** 
 📧 <niv.kotek@msmail.ariel.ac.il >
+**© shevach aviv** 
+📧 <aviv.shevach@msmail.ariel.ac.il >
+
 
