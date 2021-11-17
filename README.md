@@ -23,6 +23,7 @@ Smart elevators are designed to transform the simple act of traveling between fl
 - [Elevator call logic, the old OTIS system](https://www.youtube.com/watch?v=BCN9mQOT3RQ)
 
 - [DUPLEX elevator call logic - how does THAT work?](https://www.youtube.com/watch?v=oY1QlCqWOss)
+- [ipj](https://drive.google.com/drive/my-drive)
 
 
 ## ✨ Illustration✨ :
