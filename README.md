@@ -32,7 +32,7 @@ Smart elevators are designed to transform the simple act of traveling between fl
 ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnbdlelnb4xti3KRgMk7hx7Hlaey2VQCr1ig&usqp=CAU)
 ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnyILq_pWPFHNPQqc1pfvAFe-RXYsJnMZtWw&usqp=CAU)
 ![](https://lh3.googleusercontent.com/proxy/TDDcqSQcr-zseR2BBZuFT3ZoKG-132kgnaPOhBd5cXpEgtHePbcirH7_QxtcyciRNqOMpAvjjeJwCtbDFExTdshHGR6d6IkRWB4)
-![](https://docs.google.com/document/d/1YjYmR4s1ZgTdyz6wWTWAs1O8y43r_TmN5YJJwda4U3A/edit?usp=sharing)
+![](https://drive.google.com/drive/my-drive)
 
 
 
