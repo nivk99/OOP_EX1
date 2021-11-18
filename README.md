@@ -21,7 +21,7 @@ Given a csv file and json files, the algorithm will read the files and perform a
 3. In some cases the elevator will make several requests simultaneously depending on the situation. As for example the elevator goes up from floor x to floor y the elevator will take all requests between x and y (as long as the elevator has not passed the source of the additional request)
 
 
-## Diagram class
+## ✨Diagram class✨
 ![](https://imagizer.imageshack.com/img924/9083/g3rQkP.png)
 
 
@@ -50,7 +50,7 @@ Given a csv file and json files, the algorithm will read the files and perform a
 ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnyILq_pWPFHNPQqc1pfvAFe-RXYsJnMZtWw&usqp=CAU)
 
 
-## Reported results
+## 💡Reported results💡
 
 ![](https://imagizer.imageshack.com/img924/5372/5wlaIc.jpg)
 
