@@ -31,9 +31,9 @@ Given a csv file and json files, the algorithm will read the files and perform a
 
 - [DUPLEX elevator call logic - how does THAT work?](https://www.youtube.com/watch?v=oY1QlCqWOss)
 
-- [Planning and Control Models for Elevators in High-Rise Buildings](https://docs.google.com/document/d/12LoqfKIyVLM4sgkOgExt43CV8UvxrDT6NcM7kwMqOYA/edit?usp=sharing)
+- [Planning and Control Models for Elevators in High-Rise Buildings](https://drive.google.com/file/d/1-8bHEAO5y-wUhEXrZxPwiLVHvs287JvW/view?usp=sharing)
 
--[Exemplar-based Control of Multi-Car Elevators and its Multi-Objective Optimization using Genetic Algorithm ](https://docs.google.com/document/d/14Ew5C_vWXaoz_BuRDO9hH0WwCR4O1L3Jlhn_n1y11v4/edit?usp=sharing)
+- [Exemplar-based Control of Multi-Car Elevators and its Multi-Objective Optimization using Genetic Algorithm ](https://drive.google.com/file/d/1Ij0-IkqT8ht1cI2r4OyS4Wl7XofV7d0a/view?usp=sharing)
 
 
 
