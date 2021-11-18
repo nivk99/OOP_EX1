@@ -56,10 +56,10 @@ Given a csv file and json files, the algorithm will read the files and perform a
 
 ## ©️license & copyright©️:
 
-**© kotek niv** 
+**© Kotek Niv** 
 📧 <niv.kotek@msmail.ariel.ac.il >
 
-**© shevach aviv** 
+**© Shevach Aviv** 
 📧 <aviv.shevach@msmail.ariel.ac.il >
 
 
