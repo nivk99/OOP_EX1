@@ -14,7 +14,7 @@ In computer science, an online algorithm is one that can process its input piece
 ## 🔎What does a smart elevator mean🔎:
 Smart elevators are designed to transform the simple act of traveling between floors. Instead of pushing a button to go up or down, passengers first select the floor they want. Then they are directed to the elevator that will take them to their destination with the fewest number of stops.
 
-## 💡My algorithm:
+## 💡My algorithm💡:
 Given a csv file and json files, the algorithm will read the files and perform a number of operations:
 1. The algorithm will calculate the location of each elevator in relation to the time of each reading and will be entered in another field in the elevator class called pos_and_time
 2. The algorithm will go through all the requests and place the elevator for each request which will perform its purpose in the shortest time of all the elevators (taking into account the given times, the location of the elevator, the time it takes for the elevator to go one floor, the number of elevators, up / down elevator mode and end previous readings)
@@ -45,9 +45,11 @@ Given a csv file and json files, the algorithm will read the files and perform a
 ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnyILq_pWPFHNPQqc1pfvAFe-RXYsJnMZtWw&usqp=CAU)
 ![](https://lh3.googleusercontent.com/proxy/TDDcqSQcr-zseR2BBZuFT3ZoKG-132kgnaPOhBd5cXpEgtHePbcirH7_QxtcyciRNqOMpAvjjeJwCtbDFExTdshHGR6d6IkRWB4)
 ![](https://drive.google.com/file/d/1f5OtgVpm4RLx8vagtAvX1u2N9gZ-V5Un/view?usp=sharing)
+
+
+## Reported results
+
 ![](https://imagizer.imageshack.com/img923/1052/dZxjif.jpg)
-
-
 
 ## ©️license & copyright©️:
 
