@@ -1,0 +1,87 @@
+@startuml
+class Building{
+-_BuildingName:str
+-_minFloor:int
+-_maxFloor:int
+-_listElev:list
++getBuildingName() -> int
++getMinFloor() -> int
++getMaxFloor() -> int
++getListElev() -> list
++__str__() -> str
++__repr__() -> str
+ }
+ class Elevator{
+ - _id:int
+  - _speed:float
+  -_minFloor:int
+  - _maxFloor:int
+  - _closeTime:float
+  - _openTime:float
+  - _startTime:float
+  -_stopTime:float
+   +pos_and_time:[0, 0]
++__lt__( other:Elevator) -> bool
++getId() -> int
++getSpeed() -> float
++getMinFloor() -> int
++getMaxFloor() -> int
++ getCloseTime() -> float
++getOpenTime() -> float
++getStartTime() -> float
++getStopTime() -> float
++__str__() -> str
++__repr__() -> str
+ }
+
+ class CallForElevator{
+ -_name:str
+-_time:float
+-_src:int
+-_dest:int
+ -_flag:int
+ -_id_elev:int
+ +getName() -> str
+ +getTime() -> float
+ +getSrc() -> int
+ + getDest() -> int
+ +getIdElev() -> int
+ +getAddListCall() -> list
+ + getStatus() -> int
+ + setIdElev( id_elev:int) -> None
+ +__str__() -> str
+ +__repr__() -> str
+ }
+ class OfflineAlgo{
+ -_building:Building
+ -_call:CallForElevator
+ -_list_elevator=_building.getListElev()
+ +allocateAnElevator() -> None
+ }
+
+ class WritingReading{
+ -_file_name_cvs:str
+ -_file_name_json:str
+ -_file_name_output:str
+ -_calls=[]
+ -_building = Building()
+ +Ran() -> None
+ +algo() -> None
+ +writingCsv() -> None
+ +readingCsv() -> None
+ +readingJson() -> None
+ }
+ class Ex1{
+def main()
+ }
+ Ex1 --> WritingReading
+ WritingReading --* OfflineAlgo
+ WritingReading --* Building
+ WritingReading --* CallForElevator
+  WritingReading --* Elevator
+ OfflineAlgo --o CallForElevator
+ OfflineAlgo --o Building
+ OfflineAlgo --o  Elevator
+ Building --o  Elevator
+
+@enduml
