@@ -15,6 +15,13 @@ In computer science, an online algorithm is one that can process its input piece
 Smart elevators are designed to transform the simple act of traveling between floors. Instead of pushing a button to go up or down, passengers first select the floor they want. Then they are directed to the elevator that will take them to their destination with the fewest number of stops.
 
 ## 💡My algorithm:
+Given a csv file and json files, the algorithm will read the files and perform a number of operations:
+1. The algorithm will calculate the location of each elevator in relation to the time of each reading and will be entered in another field in the elevator class called pos_and_time
+2. The algorithm will go through all the requests and place the elevator for each request which will perform its purpose in the shortest time of all the elevators (taking into account the given times, the location of the elevator, the time it takes for the elevator to go one floor, the number of elevators, up / down elevator mode and end previous readings)
+3. In some cases the elevator will make several requests simultaneously depending on the situation. As for example the elevator goes up from floor x to floor y the elevator will take all requests between x and y (as long as the elevator has not passed the source of the additional request)
+
+
+
 
 
 ## 🔗Links🔗:
