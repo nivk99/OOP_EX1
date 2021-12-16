@@ -52,7 +52,7 @@ Given a csv file and json files, the algorithm will read the files and perform a
 
 ## 💡Reported results💡
 
-![](https://github.com/nivk99/OOP_Ex1/blob/main/offline_algo.pdf)
+![](https://github.com/nivk99/OOP_Ex1/blob/main/offline_algo_page-0001.jpg)
 
 ## ©️license & copyright©️:
 
