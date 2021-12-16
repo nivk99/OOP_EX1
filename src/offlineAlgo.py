@@ -31,8 +31,8 @@ In addition she checks which elevator takes her to do the task in the shortest t
         :return: None
         """
         for call in self._call:
-            if call.getSrc() < self._building.getMinFloor() or call.getSrc() > self._building.getMaxFloor() or call.getDest() > self._building.getMaxFloor() or call.getDest() < self._building.getMinFloor():
-                raise Exception("out of range")
+#             if call.getSrc() < self._building.getMinFloor() or call.getSrc() > self._building.getMaxFloor() or call.getDest() > self._building.getMaxFloor() or call.getDest() < self._building.getMinFloor():
+#                 raise Exception("out of range")
             min_time = sys.maxsize
             for elev in self._list_elevator:
                 way = abs(call.getSrc() - call.getDest())
