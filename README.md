@@ -59,7 +59,5 @@ Given a csv file and json files, the algorithm will read the files and perform a
 **© Kotek Niv** 
 📧 <niv.kotek@msmail.ariel.ac.il >
 
-**© Shevach Aviv** 
-📧 <aviv.shevach@msmail.ariel.ac.il >
 
 
